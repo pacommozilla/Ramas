@@ -1,0 +1,10 @@
+# C12 Estaba en rama iss91v2 donde hice un desarrollo y luego
+# he creado una nueva rama dumbidea desde la rama master para
+# desarrollar una nueva idea
+
+# use comando 'git checkout master' para volver a la rama master
+# y luego use 'git checkout -b dumbidea' para pasar a la nueva rama 
+# después de crearla con la opción -b <nombre_rama_nueva>
+
+# Añado este fichero para desarrollo en nueva rama dumbidea
+
