@@ -1,0 +1,7 @@
+# C7 Estuve desarrollando en la rama iss91 hasta el 
+# commit C6. Pero he decidido desarrollar otra versión
+# para solucionar el problema 91 desde el commit C4.
+
+# Así que he retrocedido al estado del commit 4 y he 
+# creado una nueva rama iss91v2 que sale desd C4.
+
