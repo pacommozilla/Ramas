@@ -1,0 +1,6 @@
+# C11 Tras desarrollar el commit C9 y C10 en la rama master he vuelto
+# a la rama iss91v2 para hacer un desarrollo más.
+
+# Añado este archivo en la rama iss91v2 y voy a parar por ahora el 
+# desarrollo en esta rama. Luego crearé una rama dumbidea a partir de 
+# donde estoy en la rama master para desarrollar una nueva idea.
